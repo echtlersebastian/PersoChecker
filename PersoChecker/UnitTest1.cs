@@ -15,7 +15,10 @@ namespace PersoChecker
         [Test]
         public void CheckMyPerso()
         {
-            IWebDriver driver = new ChromeDriver();
+            var chromeOptions = new ChromeOptions();
+            chromeOptions.AddArguments("headless");
+
+            IWebDriver driver = new ChromeDriver(chromeOptions);
             driver.Url = "https://www17.muenchen.de/Passverfolgung/";
             IWebElement ausweisnummer = driver.FindElement(By.Name("ifNummer"));
             ausweisnummer.SendKeys("LF0841ZT47");

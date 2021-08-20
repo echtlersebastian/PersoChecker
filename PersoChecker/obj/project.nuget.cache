@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jg78Sy7Y9VhgBvPo1wk45skmCkqG5YKp6tEtzoKwgy2rEfV2lhbGde8Mx6BHI8Q3NJeNrz0w46Rg58g3KEZfBA==",
+  "dgSpecHash": "tDZas37ej28Jk+NcAemJLnzcnBdRDbDg0lLMFMuZoZKEznBxZvDHkreeV/j6FIlR4IXTAgrxXBx6fP5w3wxANQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sebas\\source\\repos\\PersoChecker\\PersoChecker\\PersoChecker.csproj",
+  "projectFilePath": "C:\\Users\\sebas\\Source\\Repos\\PersoChecker2\\PersoChecker\\PersoChecker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
