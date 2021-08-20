@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersoChecker", "PersoChecker\PersoChecker.csproj", "{985EFAD5-0D18-41D7-B212-3427A4A7EF53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985EFAD5-0D18-41D7-B212-3427A4A7EF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985EFAD5-0D18-41D7-B212-3427A4A7EF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985EFAD5-0D18-41D7-B212-3427A4A7EF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985EFAD5-0D18-41D7-B212-3427A4A7EF53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED0F687-0340-4ED5-9F0D-3CFDA1EEE313}
+	EndGlobalSection
+EndGlobal
