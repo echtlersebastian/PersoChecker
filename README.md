@@ -7,10 +7,10 @@ In this Repo i build a bot that checks, if my Personalausweis is ready to get pi
  - If yes, the test is green. 
  - If no, the Status has changed and i will get an Email about the failed Test.
  
-#How it runs:
+# How it runs:
  - Github Action running on a scedule builds and executes the NUnit Tests. 
  
-#How to use it:
+# How to use:
  - fork the Repo, change the Abholnummer to your Abholnummer and create a Github Action (just copy my dotnet.yml File in the Workflow folder and you are good to go). :)
  
  Have fun waiting on your new Perso!
