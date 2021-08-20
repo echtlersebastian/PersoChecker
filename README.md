@@ -1,7 +1,7 @@
 
 
 
-# PersoChecker
+# PersoChecker 
 This is a bot that checks if my Personalausweis is ready to get picked up at the Bürgerbüro in Munich. It will (hopefully) get notfied by an Email.
 
 current Status of my Personalausweis:
@@ -17,7 +17,7 @@ current Status of my Personalausweis:
  
 # How it runs:
  - Github Action running on a scedule builds and executes the NUnit Tests. 
- - The Check runs every 30 minutes
+ - The Check runs every 60 minutes (i think, that higher frequent executions will just break the Internet at Bürgerbüro 🤡)
  
 # How to use:
  - fork the Repo, change the Abholnummer to your Abholnummer and create a Github Action (just copy my dotnet.yml File in the Workflow folder and you are good to go). :)
