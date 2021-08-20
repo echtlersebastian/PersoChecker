@@ -1,5 +1,5 @@
 # PersoChecker
-In this Repo i build a bot that checks, if my Personalausweis is ready to get picked up at the Bürgerbüro in Munich
+This is a bot that checks if my Personalausweis is ready to get picked up at the Bürgerbüro in Munich. It will (hopefully) get notfied by an Email.
 
 # What it does:
  - Selenium Test opening the Website muenchen.de/pass and entering my Abholcode.
