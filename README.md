@@ -1,3 +1,6 @@
+[![Do i need to wait longer?](https://github.com/echtlersebastian/PersoChecker/actions/workflows/dotnet.yml/badge.svg)](https://github.com/echtlersebastian/PersoChecker/actions/workflows/dotnet.yml)
+
+
 # PersoChecker
 This is a bot that checks if my Personalausweis is ready to get picked up at the Bürgerbüro in Munich. It will (hopefully) get notfied by an Email.
 
