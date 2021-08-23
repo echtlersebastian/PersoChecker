@@ -12,7 +12,7 @@ current Status of my Personalausweis:
 # Why do we need something like this?
 The Guy at the counter in 🤡Bürgerbüro🤡 was telling me, that i will not get any notification about the status of my personalausweis. He said: "just check the website
 mentioned on the printed Abholschein and type in your Ausweisnummer. It is working like the Package Tracking at DHL". But it does not work like DHL. Because i get 
-notified about my packages at DHL. And i am that kind of guy, that forgets about an Personalausweiß and will never Pick it up from the 🤡Bürgerbüro🤡. Thats why i wrote 
+notified about my packages at DHL. And i am that kind of guy, that forgets about an Personalausweis and will never Pick it up from the 🤡Bürgerbüro🤡. Thats why i wrote 
 a bot to Notify me. Ten Lines of Code written by me, so not that complicated. If 🤡Bürgerbüro🤡 want to offer an Notificationservice about the Personalausweises to
 everybody, just send me a 🕊Brieftaube🕊 or whatever kind of Communication tool you use, i will provide you a basic Solution, that does the job for free. Thats not Rocketscience. 🚀🚀🚀🚀🚀🚀🚀🚀
 
