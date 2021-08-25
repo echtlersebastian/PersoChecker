@@ -1,5 +1,6 @@
 
-
+# INFO
+This is currently configured to work only for my Personalausweis. If you want to use this for your Personalausweis as well, than use https://github.com/echtlersebastian/MunichPersoChecker
 
 # PersoChecker 
 This is a bot that checks if my Personalausweis is ready to get picked up at the Bürgerbüro in Munich. I will (hopefully) get notfied by an Email.
