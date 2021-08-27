@@ -1,5 +1,5 @@
 
-# INFO
+# INFO --- This is outdated. Use the Repo below!
 This is currently configured to work only for my Personalausweis. If you want to use this for your Personalausweis as well, than use https://github.com/echtlersebastian/MunichPersoChecker
 
 # PersoChecker 
@@ -9,14 +9,6 @@ current Status of my Personalausweis:
 [![Do i need to wait longer?](https://github.com/echtlersebastian/PersoChecker/actions/workflows/dotnet.yml/badge.svg)](https://github.com/echtlersebastian/PersoChecker/actions/workflows/dotnet.yml)
 
 (Green means, that i need to wait longer. As soon, as it turns red, i will be able to create an appointment and pick up my new Personalausweis!)
-
-# Why do we need something like this?
-The Guy at the counter in 🤡Bürgerbüro🤡 was telling me, that i will not get any notification about the status of my personalausweis. He said: "just check the website
-mentioned on the printed Abholschein and type in your Ausweisnummer. It is working like the Package Tracking at DHL". But it does not work like DHL. Because i get 
-notified about my packages at DHL. And i am that kind of guy, that forgets about an Personalausweis and will never Pick it up from the 🤡Bürgerbüro🤡. Thats why i wrote 
-a bot to Notify me. Ten Lines of Code written by me, so not that complicated. If 🤡Bürgerbüro🤡 want to offer an Notificationservice about the Personalausweises to
-everybody, just send me a 🕊Brieftaube🕊 or whatever kind of Communication tool you use, i will provide you a basic Solution, that does the job for free. Thats not Rocketscience. 🚀🚀🚀🚀🚀🚀🚀🚀
-
 
 # What it does:
  - Selenium Test opening the Website muenchen.de/pass and entering my Abholcode.
